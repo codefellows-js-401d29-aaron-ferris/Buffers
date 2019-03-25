@@ -1,0 +1,31 @@
+{
+  "name": "buffers",
+  "version": "1.0.0",
+  "description": "Buffers and Bit Manipulation",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint **/*.js",
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage",
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefellows-js-401d29-aaron-ferris/Buffers.git"
+  },
+  "author": "Aaron Ferris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codefellows-js-401d29-aaron-ferris/Buffers/issues"
+  },
+  "homepage": "https://github.com/codefellows-js-401d29-aaron-ferris/Buffers#readme",
+  "dependencies": {
+    "eslint": "^5.15.3",
+    "jest": "^24.5.0",
+    "lint": "^1.1.2"
+  }
+}
