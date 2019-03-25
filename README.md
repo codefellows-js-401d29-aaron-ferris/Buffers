@@ -3,7 +3,7 @@
 
 ## Buffers and Bitmap Manipulation
 
-### Author: Aaron Ferris and Chris 
+### Author: Aaron Ferris and Chris Merritt
 
 ### Links and Resources
 * [Pull Request](http://xyz.com)
