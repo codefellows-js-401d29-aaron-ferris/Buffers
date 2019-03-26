@@ -149,14 +149,18 @@
 
 #### Reference:
 
-#### Resulting Transformations
+#### Resulting Transformations and Exact Commands
 * Mime John  
+* node index.js assets/baldy.bmp clown
 ![clown](./assets/baldyclown.bmp)
 * Random Color John  
+* node index.js assets/baldy.bmp random  
 ![random](./assets/baldyrandom.bmp)
 * Grey John  
+* node index.js assets/baldy.bmp grey
 ![clown](./assets/baldygrey.bmp)
 * Inverted John  
+node index.js assets/baldy.bmp inverted
 ![clown](./assets/baldyinvert.bmp)
 
 #### Defined Color Pallate for John Bitmap
